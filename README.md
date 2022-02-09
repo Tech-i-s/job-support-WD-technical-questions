@@ -11,12 +11,10 @@ Here is the link for Git questionaire
 Here's the link for SQL questionaire 
 ```
 ### Django
-```
-Here is the link for Django questionaire
-```
+https://docs.google.com/document/d/1VHCjgKHDYd7hufqoqN9iEoN-Bh-6YBCXf_i5xd5uNoM/edit?usp=sharing
 ### JavaScript
 
-[https://docs.google.com/document/d/11DRPO1altWdFe36ACdxUY4gOULNorw0Lad9o_0lSnI4/edit?usp=sharing]
+https://docs.google.com/document/d/11DRPO1altWdFe36ACdxUY4gOULNorw0Lad9o_0lSnI4/edit?usp=sharing
 
 ### React
 ```
